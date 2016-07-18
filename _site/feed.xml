@@ -4,10 +4,10 @@
     <title>Mitja Jež</title>
     <description>Me and my open source story on the way of building tools for transition into a Resource Based Economy by The Venus Project.
 </description>
-    <link>https://mitja.jež.si/</link>
-    <atom:link href="https://mitja.jež.si/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Jul 2016 20:36:13 +0200</pubDate>
-    <lastBuildDate>Mon, 18 Jul 2016 20:36:13 +0200</lastBuildDate>
+    <link>https://mitjajez.github.io/</link>
+    <atom:link href="https://mitjajez.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Jul 2016 21:41:42 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2016 21:41:42 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -58,7 +58,7 @@ test svg support for this in more browsers.&lt;/p&gt;
 &lt;p&gt;Noow, here is this code used:&lt;/p&gt;
 &lt;style&gt;svg { fill: unset; } .rect{ fill:red; } .circle{ fill:blue; }&lt;/style&gt;
 
-&lt;svg&gt;&lt;use class=&quot;use&quot; xlink:href=&quot;https://mitja.jež.si/images/svg-use-class-test.svg#symbol&quot; /&gt;&lt;/svg&gt;
+&lt;svg&gt;&lt;use class=&quot;use&quot; xlink:href=&quot;https://mitjajez.github.io/images/svg-use-class-test.svg#symbol&quot; /&gt;&lt;/svg&gt;
 
 &lt;p&gt;just path to svg is corrected.&lt;/p&gt;
 
@@ -66,8 +66,8 @@ test svg support for this in more browsers.&lt;/p&gt;
 &lt;a href=&quot;https://jonathantneal.github.io/svg4everybody/&quot;&gt;svg4everybody&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Feb 2016 19:50:00 +0100</pubDate>
-        <link>https://mitja.jež.si/blog/2016/02/what-is-your-collor</link>
-        <guid isPermaLink="true">https://mitja.jež.si/blog/2016/02/what-is-your-collor</guid>
+        <link>https://mitjajez.github.io/blog/2016/02/what-is-your-collor</link>
+        <guid isPermaLink="true">https://mitjajez.github.io/blog/2016/02/what-is-your-collor</guid>
         
         
         <category>svg</category>
