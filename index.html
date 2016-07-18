@@ -1,21 +1,23 @@
-<!doctype html>
+---
+layout: default
+---
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
+<div class="home">
 
-  <title>Source code of Mitja Jež</title>
-  <meta name="description" content="Source code">
-  <meta name="author" content="Mitja Jež">
+  <h1 class="page-heading">Posts</h1>
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-</head>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-<body>
-  <script src="js/scripts.js"></script>
-</body>
-</html>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
