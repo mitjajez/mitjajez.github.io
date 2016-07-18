@@ -1,0 +1,8 @@
+files:
+  include:
+    - 'css/**/*.s+(a|c)ss'
+    - '_sass/**/*.s+(a|c)ss'
+
+# Rule Configuration
+rules:
+  single-line-per-selector: 0

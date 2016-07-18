@@ -8,13 +8,13 @@ permalink: /about/
 Card() {
   name: 'Mitja Jež',
   email: 'mitja@jež.si',
-  sip => 'mitjajez@ostel.co',
-  Github => 'mitjajez'
-  social => 'Diaspora*',
-  flattr => 'mitjajez'
-  'I call my self as a social engineer as i’m interested in psychology and \
-  social concern to see bigger picture of economic problems and solving this \
-  through open source engineering applications and sharing.'
+  sip: 'mitjajez@ostel.co',
+  Github: 'mitjajez'
+  social: 'Diaspora*',
+  flattr: 'mitjajez'
+  description: 'I call my self as a social engineer as i’m interested in \
+  psychology and social concern to see bigger picture of economic problems and \
+  solving this through open source engineering applications and sharing.',
 }
 ```
 Some of my favorite quotes:
@@ -24,8 +24,8 @@ Some of my favorite quotes:
 > – Jacque Fresco, inspired by Buckminster Fuller,
 
 * koordinator skupine za informacijsko tehnologijo
-* Prepričan sem, da lahko tehnologija v rokah ljudstva spremeni svet na bolje.
-  Zanima me pa vse kar je povezano s trajnostnim razvojem in učinkovitim
+* Prepričan sem, da lahko tehnologija v rokah ljudstva lahko spremeni svet na
+  bolje. Zanima me pa vse kar je povezano s trajnostnim razvojem in učinkovitim
   gospodarstvom v pravem pomenu besede – hint: GOSPODARITI.
 * Elektronika je mati računalništva!
 
