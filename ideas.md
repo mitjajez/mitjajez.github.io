@@ -11,7 +11,7 @@ Tu je seznam odličnih projektov, idej, iniciativ in organizacij, ki imajo mojo 
 
 # Futuristične ideje:
 * [Projekt Venus](https://www.thevenusproject.com/)
-* [foodisfreeproject.org](https://www.openstreetmap.org/)
-* [Open Street Map]()
+* [foodisfreeproject.org](http://foodisfreeproject.org/)
+* [Open Street Map](https://www.openstreetmap.org/)
 * [_wlan slovenija_](https://wlan-si.net/)
 * [Unconditional basic income](http://www.basicincome.org/)
