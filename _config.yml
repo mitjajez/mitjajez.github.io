@@ -11,6 +11,7 @@ email: mitja@jež.si
 description: >
   Me and my open source story on the way of building tools for transition
   into a Resource Based Economy by The Venus Project.
+repository: mitjajez/SONCE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mitja.jež.si" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:title
