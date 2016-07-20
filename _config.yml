@@ -15,8 +15,8 @@ repository: mitjajez/SONCE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mitja.jež.si" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:title
-diaspora_username:  mitjajez
-github_username:  mitjajez
+diaspora_username: mitjajez
+github_username: mitjajez
 twitter_username: mitjajez
 
 # Build settings
@@ -26,4 +26,3 @@ markdown: kramdown
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
-  - feedjira
