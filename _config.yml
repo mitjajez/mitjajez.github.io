@@ -8,12 +8,11 @@
 # Site settings
 title: Mitja Jež
 email: mitja@jež.si
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Me and my open source story on the way of building tools for transition
   into a Resource Based Economy by The Venus Project.
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://mitjajez.github.io" # the base hostname & protocol for your site
-url: "http://mitja.jež.si" # the base hostname & protocol for your site
+url: "https://mitja.jež.si" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:title
 diaspora_username:  mitjajez
 github_username:  mitjajez
