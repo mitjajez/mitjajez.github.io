@@ -13,7 +13,7 @@ description: >
   into a Resource Based Economy by The Venus Project.
 repository: mitjajez/SONCE
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mitja.jež.si" # the base hostname & protocol for your site
+url: "https://mitja.xn--je-3va.si" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:title
 diaspora_username: mitjajez
 github_username: mitjajez
