@@ -1,0 +1,26 @@
+[
+  {
+    "title": "About",
+    "url": "/about/",
+    "children": [
+      {
+        "title": "Projects",
+        "url": "/about/projects"
+      }
+    ]
+  },
+  {
+    "title": "Activity",
+    "url": "/activity/",
+    "children": [
+      {
+        "title": "Github",
+        "url": "/activity/github/"
+      },
+      {
+        "title": "Open Street Map",
+        "url": "/activity/osm/"
+      }
+    ]
+  }
+]

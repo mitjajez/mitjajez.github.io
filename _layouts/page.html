@@ -18,5 +18,9 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+  <div>
+    <h2>Automatic page url based menu</h2>
+    {% include automenu url='/' sort="url" reverse=false all=false %}
+  </div>
 
 </article>
