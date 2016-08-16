@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Tnx to https://jaicab.com/2016/04/05/travis-for-jekyll-on-github-pages/
+set -e # halt script on error
+
+bundle exec jekyll build
+bundle exec htmlproofer ./_site
