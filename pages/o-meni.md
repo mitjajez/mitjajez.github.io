@@ -31,19 +31,20 @@ Priljubljeni citat:
 Let’s fix Value System Disorder!
 
 # Tehnična znanja
-* Programming languages: ANSI C;
-* Web technologies: HTML5, CSS3, Javascript, jQuery;
-* Server and database: Linux, Apache, MySQL, PHP, Node.js, MongoDB, Docker;
-* Scripting and data manipulation tools: shell utilities, vim, regular
-  expressions;
-* Graphics technologies: SVG;
-* Graphics tools: Inkscape, Gimp;
-* Revision control software: Git, Subversion;
-* 3D graphics tools: OpenSCAD
+* Programski jeziki: ANSI C;
+* Spletne tehnologije: HTML5, CSS3, Javascript, jQuery;
+* Strežnik in podatkovne baze: Linux, Apache, MySQL, PHP, Node.js, MongoDB,
+  Docker;
+* Skriptiranje in orodja za munipulacijo s podatki: shell utilities, vim,
+  regular expressions;
+* Grafične tehnologije: SVG;
+* Grafična orodja: Inkscape, Gimp;
+* Programska oprema za upravljanje z različicami: Git, Subversion;
+* 3D grafična orodja: OpenSCAD
 
 # Izobrazba:
 * 2016: nedokončan študij univerzitetnega študijskega programa Elektrotehnika,
-  smer elektronika
+  smer elektronika (še zagovor)
 * 2004: elektrotehnik elektronik
 * 2002: elektrikar elektronik
 
@@ -112,7 +113,11 @@ Let’s fix Value System Disorder!
 
 # Druge dejavnosti:
 * 2013: Organizacija delavnice Organska brezžična omrežja, Ajdovščina
-* Pisanje kolumn – MC Hiša mladih,
+* Pisanje kolumn – MC Hiša mladih (
+  [Na mladih svet stoji](http://www.mc-hisamladih.si/kolumna/2013090316070505/),
+  [Umetnost odprte tehnologije](http://www.mc-hisamladih.si/kolumna/2013112109361915),
+  [Ne daj človeku ribe, ampak palico ter ga nauči loviti ribe](http://www.mc-hisamladih.si/kolumna/2013070909560474/),
+  ),
 * 2012 – 2014: Petje pri Komornem zboru Ipavska
 * 2011 – danes: Koordinator skupine za informacijsko tehnologijo, Društvo za
   trajnostni razvoj Duh časa
