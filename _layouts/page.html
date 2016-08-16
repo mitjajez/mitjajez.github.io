@@ -19,8 +19,13 @@ layout: default
     {{ content }}
   </div>
   <div>
-    <h2>Automatic page url based menu</h2>
-    {% include automenu url='/' sort="url" reverse=false all=false %}
+    {% if page.url contains '/en/' %}
+      <h2>Subpages</h2>
+      {% include automenu url='/en/' sort="url" reverse=false all=false %}
+    {% else %}
+      <h2>Podstrani</h2>
+      {% include automenu url='/' sort="url" reverse=false all=false %}
+    {% endif %}
   </div>
 
 </article>
