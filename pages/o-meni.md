@@ -1,23 +1,23 @@
 ---
 layout: page
-title: About
-permalink: /en/about/
+title: O meni
+permalink: /o-meni/
 ---
 
 ```javascript
 Card() {
-  name: 'Mitja Jež',
-  email: 'mitja@jež.si',
+  ime: 'Mitja Jež',
+  e-pošta: 'mitja@jež.si',
   SIP: 'mitjajez@ostel.co',
   Github: 'mitjajez'
-  Diaspora*: 'mitjajez@diasp.eu',
+  Diaspora*: mitjajez@diasp.eu,
   flattr: 'mitjajez'
   description: 'I call my self as a social engineer as i’m interested in \
   psychology and social concern to see bigger picture of economic problems and \
   solving this through open source engineering applications and sharing.',
 }
 ```
-Some of my favorite quotes:
+Priljubljeni citat:
 
 > “You don’t fight for ‘a new system’. You create something that makes the old
 > system obsolete”
@@ -30,7 +30,7 @@ Some of my favorite quotes:
 
 Let’s fix Value System Disorder!
 
-# Technical Skills
+# Tehnična znanja
 * Programming languages: ANSI C;
 * Web technologies: HTML5, CSS3, Javascript, jQuery;
 * Server and database: Linux, Apache, MySQL, PHP, Node.js, MongoDB, Docker;
@@ -41,7 +41,7 @@ Let’s fix Value System Disorder!
 * Revision control software: Git, Subversion;
 * 3D graphics tools: OpenSCAD
 
-# Education:
+# Izobrazba:
 * 2016: nedokončan študij univerzitetnega študijskega programa Elektrotehnika,
   smer elektronika
 * 2004: elektrotehnik elektronik
@@ -56,7 +56,7 @@ Let’s fix Value System Disorder!
 * 2007 – 2009: SONCE – Simple ONline Circuit Editor (ver. 0.1: SVG with
   javascript)
 
-# Employment Experience:
+# Delovne izkušnje:
 * 2015: BeeZee Designs – web projects
 * 2014/15: DOPPS – BirdLife Slovenia – Asistent vodje projekta in projektni
   administrator (nova spletna stran ptice.si)
@@ -80,7 +80,7 @@ Let’s fix Value System Disorder!
   Računalništvo za elektrotehnike 1 in 2 ter Računalništvo 1 in 2
 * 2000 – 2009: Pletiko d.o.o. (občasna pomoč v kovinarstvu)
 
-# Publications:
+# Objave:
 * Spletni urejevalnik za vnos električnih vezij prispevek na konferenci
   ERK 2009, Andrej Košir, Mitja Jež, Sašo Kukovica.
 
@@ -93,7 +93,7 @@ Let’s fix Value System Disorder!
 * 2002: Zlato priznanje za uspeh na državnem tekmovanju Evropski matematični
   kenguru
 
-# Informal education:
+# Neformalna izobrazba:
 * 2015: Alpinistična šola (AO PD Vipava)
 * 2015: Plezalna šola (AO PD Vipava)
 * 2014: Intenzivno usposabljanje za mentorje: Vloga mentorja v organiziranem
@@ -116,7 +116,7 @@ Let’s fix Value System Disorder!
 * 2012 – 2014: Petje pri Komornem zboru Ipavska
 * 2011 – danes: Koordinator skupine za informacijsko tehnologijo, Društvo za
   trajnostni razvoj Duh časa
-* 2011 – danes: Koordinator Goriške regije, Društvo za trajnostni razvoj Duh
+* 2011 – 2014: Koordinator Goriške regije, Društvo za trajnostni razvoj Duh
   časa
 * Volitve 2011: Kandidiral za poslanca na listi Stranke TRS
 * 2011: Risanje simbolov na gedasymbols.org
@@ -130,6 +130,7 @@ Let’s fix Value System Disorder!
 * 2002: Vaditelj orientacije, PD Vipava
 
 # Povezave:
+* [OpenStreetMap](http://www.openstreetmap.org/user/MitjaJez) (preko 400 urejanj, preko 100 GPS sledi)
 * [Z delavnice organska brezžična omrežja](https://wlan-si.net/media/files/2013/11/29/rarobin-zdelavniceorganskihbrezzicnihomrezij-2013-11-27.mp3)
 * [MC21 Intervju](http://www.mc-hisamladih.si/mc_21/2012011617262666/)
 * [sl.wikipedia.org](http://sl.wikipedia.org/wiki/Uporabnik:Mitto)

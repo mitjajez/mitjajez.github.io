@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ideas
-permalink: /ideas/
+permalink: /en/ideas/
 ---
 Tu je seznam odličnih projektov, idej, iniciativ in organizacij, ki imajo mojo podporo in po mojem mnenju v večji meri spreminjajo svet. To je prihodnost, ki jo potrebujemo. Pridružite se jim, v kolikor lahko.
 

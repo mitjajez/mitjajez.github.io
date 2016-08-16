@@ -1,27 +1,27 @@
 ---
 layout: page
 title: Software
-permalink: /software/
+permalink: /en/software/
 ---
 
-# Prenosnik
-* Operacijski sistem/Distribucija: GNU/Linux - Debian
-* Namizje: KDE
-* Spletni brskalnik: Mozilla Firefox
-* Bralnik pošte: Icedove (Debian's Thunderbird fork)
-* Pisarniški paket: Texlive, LibreOffice
-* Video predvajalnik: VLC
-* Matematični paket: Octave
+# Notebook
+* OS/Distribution: GNU/Linux - Debian
+* Desktop: KDE
+* Web browser: Mozilla Firefox
+* Mail reader: Icedove (Debian's Thunderbird fork)
+* Office suite: Texlive, LibreOffice
+* Video player: VLC
+* Numerical Math: Octave
 
-# Telefon
-* Operacijski sistem: Cyanogenmod (TODO!)
-* Katalog odprtokodnih programov: F-droid
-* Bralnik SMSov: Silence
-* Spletni brskalnik: Firefox for Android
-* Bralnik e-pošte: K-9 Mail
-* Navigator: OsmAnd~
-* Video predvjalnik: VLC
-* Datotečni brskalnik: Amaze
+# Mobile
+* OS: Cyanogenmod (TODO!)
+* Software suite: F-droid
+* SMS reader: Silence
+* Web browser: Firefox for Android
+* Mail reader: K-9 Mail
+* Navigation: OsmAnd~
+* Video player: VLC
+* File browser: Amaze
 
 # Beaglebone Black
-* Ostaja na originalnem sistemu
+* Default for now
