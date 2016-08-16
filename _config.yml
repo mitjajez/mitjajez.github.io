@@ -22,6 +22,8 @@ twitter_username: mitjajez
 # Build settings
 markdown: kramdown
 
+exclude: [vendor]
+
 # Plugins
 gems:
    - jekyll-mentions
