@@ -40,6 +40,22 @@
     }
   }
 
+  .trigger {
+    display: inline-block;
+
+    & > .menu {
+      & > li {
+        display: inline-block;
+        padding-right: 1em;
+      }
+    }
+  }
+
+  .lang-switcher {
+    display: inline-block;
+  }
+
+
   @include media-query($on-palm) {
     background-color: $background-color;
     border: 1px solid $grey-color-light;
@@ -67,6 +83,11 @@
           fill: $grey-color-dark;
         }
       }
+
+      &:focus + .trigger {
+        display: block;
+      }
+
     }
 
     .trigger {
@@ -77,12 +98,8 @@
         display: block;
         padding-bottom: 5px;
       }
-    }
 
-    .menu-icon:focus + .trigger{
-      display: block;
     }
-
 
     .page-link {
       display: block;

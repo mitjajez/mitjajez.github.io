@@ -14,18 +14,11 @@
       </button>
 
       <div class="trigger">
-        {% if page.url contains '/en/' %}
-          {% include automenu url='/en/' sort="url" reverse=false all=false %}
-        {% else %}
-          {% include automenu url='/' sort="url" reverse=false all=false %}
-        {% endif %}
-      </div>
-      <div class="lang-switcher">
-      {% if page.url contains '/en/' %}
-        <a class="page-link" href="/">sl</a>
-      {% else %}
-        <a class="page-link" href="/en/">en</a>
-      {% endif %}
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}
       </div>
     </nav>
 
