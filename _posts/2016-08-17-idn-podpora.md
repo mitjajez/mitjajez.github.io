@@ -17,14 +17,17 @@ Tako bom skušal v tem zapisu zbrati tehnologijo in dobre prakse, da bi naše ID
 
 Začenjam s php-jem, ker sem se s tem srečal najprej, preden sem aktivno presedlal na Meteor.
 Php ima [IDN podporo](http://php.net/manual/en/ref.intl.idn.php) preko
+
 - idn_to_ascii — Convert domain name to IDNA ASCII form.
 - idn_to_utf8 — Convert domain name from IDNA ASCII to Unicode.
 
 Namestiš ga z
+
 ```bash
 apt-get install php5-intl
 ```
 in uporaba:
+
 ```php
 idn_to_ascii('jež.si');
 idn_to_utf8('xn--je-3va.si');
@@ -35,6 +38,7 @@ idn_to_utf8('xn--je-3va.si');
 Za IDN podporo v JavaScriptu skrbi [knjižnjica punycode.js](https://github.com/bestiejs/punycode.js/).
 
 Namestiš z
+
 ```bash
 npm install punycode --save
 ```
@@ -45,6 +49,7 @@ const punycode = require('punycode');
 ```
 
 uporaba:
+
 ```javascript
 punycode.toUnicode('xn--je-3va.si');
 punycode.toASCII('jež.si');
@@ -55,11 +60,13 @@ punycode.toASCII('jež.si');
 S tem sem se srečal le pri tej moji spletni strani, ki jo generira jekyll.
 
 Namestitev:
+
 ```bash
 sudo gem install simpleidn
 ```
 
 uporaba:
+
 ```ruby
 require 'rubygems'
 require 'simpleidn'
