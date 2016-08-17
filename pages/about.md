@@ -61,7 +61,7 @@ Let’s fix Value System Disorder!
 * 2014/15: DOPPS – BirdLife Slovenia – Asistent vodje projekta in projektni
   administrator (nova spletna stran ptice.si)
 
-# Študentsko delo:
+# Student jobs:
 * 2010/11: Fakulteta za elektrotehniko – demonstrator pri predmetu Digitalni
   elektronski sistemi
 * 2009/10 – 2010/11: Fakulteta za elektrotehniko – demonstrator pri predmetu
@@ -81,7 +81,7 @@ Let’s fix Value System Disorder!
 * 2000 – 2009: Pletiko d.o.o. (občasna pomoč v kovinarstvu)
 
 # Publications:
-* Spletni urejevalnik za vnos električnih vezij prispevek na konferenci
+* Spletni urejevalnik za vnos električnih vezij, conference contribution
   ERK 2009, Andrej Košir, Mitja Jež, Sašo Kukovica.
 
 # Nagrade:
@@ -130,7 +130,8 @@ Let’s fix Value System Disorder!
 * 2002: Vaditelj orientacije, PD Vipava
 
 # Povezave:
+* [OpenStreetMap](http://www.openstreetmap.org/user/MitjaJez) (over 400 edits, over 100 GPS traces)
 * [Z delavnice organska brezžična omrežja](https://wlan-si.net/media/files/2013/11/29/rarobin-zdelavniceorganskihbrezzicnihomrezij-2013-11-27.mp3)
 * [MC21 Intervju](http://www.mc-hisamladih.si/mc_21/2012011617262666/)
 * [sl.wikipedia.org](http://sl.wikipedia.org/wiki/Uporabnik:Mitto)
-* [e-studij.si](http://www.e-studij.si/Uporabnik:Mitto) (preko 17 000 urejanj)
+* [e-studij.si](http://www.e-studij.si/Uporabnik:Mitto) (over 17 000 edits)
