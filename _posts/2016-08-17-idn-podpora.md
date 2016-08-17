@@ -3,13 +3,14 @@ published: true
 layout: post
 date: '2016-08-17 19:36:00 +0200'
 categories: idn punycode
+title: IDN podpora
 ---
-# IDN podpora
+Kot lastnik IDN domene jež.si se večkrat srečujem z nedelovanjem vpisane domene v Unicode obliki. Seveda nimam pričakovanj, da bi se angleško govoreči del sveta ukvarjal s tem, pač pa bi lahko kaj več storili naši domači, ker slovenska vrhnja domena .si je ena tistih, ki ponuja registracijo domene oblike IDN.
 
 - **IDN** je kratica za **i**nternationalized **d**omain **n**ame
 - **Punycode** je način zapisa [Unicode](https://sl.wikipedia.org/wiki/Unicode) znakov z nizom ASCII znakov, ki jih razume DNS
 
-Kot lastnik IDN domene jež.si se večkrat srečujem z nedelovanjem vpisane domene v UTF-8 obliki. Seveda nimam pričakovanj, da bi se angleško govoreči del sveta ukvarjal s tem, pač pa bi lahko kaj več storili naši domači, ker vrhnja domena .si je ena tistih, ki ponuja registracijo IDN obliko.
+# Realizacija
 
 Tako bom skušal v tem zapisu zbrati tehnologijo in dobre prakse, da bi naše IDN domene postale kar najbolj domače. Realizacija je lahko kar splošna predpostavka, da je vnešena domena IDN in jo v bazi shranimo oz. uporabimo za nadaljno obdelavo kot ascii, razen če domeno prikazujemo.
 
@@ -74,7 +75,7 @@ SimpleIDN.to_unicode "xn--je-3va.si"
 SimpleIDN.to_ascii "jež.si"
 ```
 
-## Povezave
+# Povezave
 
 - [PunyCoder](https://www.punycoder.com)
 - [GNU libidn](http://www.gnu.org/software/libidn/)
@@ -82,6 +83,6 @@ SimpleIDN.to_ascii "jež.si"
 - [Wiki o Punycode](https://en.wikipedia.org/wiki/Punycode)
 
 
-## Državne ustanove in vabilo k sodelovanju
+# Državne ustanove in vabilo k sodelovanju
 
 Upam, da naši državni upravniki prepoznajo tehnični problem slovenščine, sploh ob 25 letnici države in naročijo posodobitve svojih spletnih strani.
