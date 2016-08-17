@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+date: '2016-08-17 19:36:00 +0200'
+categories: idn punycode
 ---
 # IDN podpora
 
