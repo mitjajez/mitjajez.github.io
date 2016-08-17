@@ -2,6 +2,7 @@
 layout: page
 title: O meni
 permalink: /o-meni/
+published: true
 ---
 
 ```javascript
@@ -135,8 +136,8 @@ Let’s fix Value System Disorder!
 * 2002: Vaditelj orientacije, PD Vipava
 
 # Povezave:
-* [OpenStreetMap](http://www.openstreetmap.org/user/MitjaJez) (preko 400 urejanj, preko 100 GPS sledi)
+* [OpenStreetMap](https://www.openstreetmap.org/user/MitjaJez) (preko 400 urejanj, preko 100 GPS sledi)
 * [Z delavnice organska brezžična omrežja](https://wlan-si.net/media/files/2013/11/29/rarobin-zdelavniceorganskihbrezzicnihomrezij-2013-11-27.mp3)
 * [MC21 Intervju](http://www.mc-hisamladih.si/mc_21/2012011617262666/)
-* [sl.wikipedia.org](http://sl.wikipedia.org/wiki/Uporabnik:Mitto)
+* [sl.wikipedia.org](https://sl.wikipedia.org/wiki/Uporabnik:Mitto)
 * [e-studij.si](http://www.e-studij.si/Uporabnik:Mitto) (preko 17 000 urejanj)
