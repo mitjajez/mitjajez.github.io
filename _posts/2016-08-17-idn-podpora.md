@@ -70,6 +70,7 @@ SimpleIDN.to_ascii "jež.si"
 ## Povezave
 
 - [PunyCoder](https://www.punycoder.com)
+- [GNU libidn](http://www.gnu.org/software/libidn/)
 - [Wiki o IDN](https://en.wikipedia.org/wiki/Internationalized_domain_name)
 - [Wiki o Punycode](https://en.wikipedia.org/wiki/Punycode)
 
