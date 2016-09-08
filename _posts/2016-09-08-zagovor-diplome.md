@@ -1,6 +1,7 @@
 ---
 published: true
-Title: 'Vabilo: Zagovor diplome'
+layout: post
+title: 'Vabilo: Zagovor diplome'
 date: '2016-09-08 13:21:00 +0200'
 categories: diploma SONCE Meteor SVG
 ---
