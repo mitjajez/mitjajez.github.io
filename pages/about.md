@@ -42,41 +42,40 @@ Let’s fix Value System Disorder!
 * 3D graphics tools: OpenSCAD
 
 # Education:
-* 2016: nedokončan študij univerzitetnega študijskega programa Elektrotehnika,
-  smer elektronika
+* 2016: B.Sc
 * 2004: elektrotehnik elektronik
 * 2002: elektrikar elektronik
 
 # Projekti:
-* 2016 – danes: SONCE – Simple ONline Circuit Editor (ver. 0.3+: Meteor)
+* 2016 – today: SONCE – Simple ONline Circuit Editor (ver. 0.3+: Meteor)
 * 2010 – 2012: SONCE – Simple ONline Circuit Editor (ver. 0.2: jQuery with SVG
   plugin)
-* 2006 – 2012: e-študij (www.e-studij.si) – Prosta zakladnica študentskega
-  znanja je wiki sistem za urejene zapiske
+* 2006 – 2012: e-študij (www.e-studij.si) – Libre treasury of student's knowladge
+  notes is wiki sistem for great notes
 * 2007 – 2009: SONCE – Simple ONline Circuit Editor (ver. 0.1: SVG with
   javascript)
 
 # Employment Experience:
 * 2015: BeeZee Designs – web projects
 * 2014/15: DOPPS – BirdLife Slovenia – Asistent vodje projekta in projektni
-  administrator (nova spletna stran ptice.si)
+  administrator (made new webpage ptice.si)
 
 # Student jobs:
-* 2010/11: Fakulteta za elektrotehniko – demonstrator pri predmetu Digitalni
+* 2010/11: Faculty of Electrical Engineering – demonstrator pri predmetu Digitalni
   elektronski sistemi
-* 2009/10 – 2010/11: Fakulteta za elektrotehniko – demonstrator pri predmetu
+* 2009/10 – 2010/11: Faculty of Electrical Engineering – demonstrator pri predmetu
   Programirljivi digitalni sistemi
-* 2010/11: Fakulteta za elektrotehniko – demonstrator pri predmetu Digitalne
+* 2010/11: Faculty of Electrical Engineering – demonstrator pri predmetu Digitalne
   strukture
-* 2010/11: Fakulteta za elektrotehniko – demonstrator pri predmetu Digitalna
+* 2010/11: Faculty of Electrical Engineering – demonstrator pri predmetu Digitalna
   tehnika
-* 2009/10 – 2010/11: Fakulteta za elektrotehniko – demonstrator pri predmetih
+* 2009/10 – 2010/11: Faculty of Electrical Engineering – demonstrator pri predmetih
   Osnove programiranja in Programiranje mikrokrmilnikov
-* 2006 – 2010: Fakulteta za elektrotehniko – demonstrator pri predmetu
+* 2006 – 2010: Faculty of Electrical Engineering – demonstrator pri predmetu
   Preklopna vezja
 * 2005 – 2010: Študentski domovi v Ljubljani – skrbnik omrežja Topniška
   (topniska.sd-lj.si)
-* 2004/05 – 2008/09: Fakulteta za elektrotehniko – demonstrator pri predmetih
+* 2004/05 – 2008/09: Faculty of Electrical Engineering – demonstrator pri predmetih
   Računalništvo za elektrotehnike 1 in 2 ter Računalništvo 1 in 2
 * 2000 – 2009: Pletiko d.o.o. (občasna pomoč v kovinarstvu)
 
@@ -111,22 +110,15 @@ Let’s fix Value System Disorder!
   (152 ur, izpopolnjevanja po 14ur: 2005 in 2008)
 
 # Druge dejavnosti:
-* 2013: Organizacija delavnice Organska brezžična omrežja, Ajdovščina
+* 2013: Organization of Organic wireless networks workshop, Ajdovščina
 * Pisanje kolumn – MC Hiša mladih,
-* 2012 – 2014: Petje pri Komornem zboru Ipavska
+* 2012 – 2014: Singing at Chamber choir Ipavska
 * 2011 – danes: Koordinator skupine za informacijsko tehnologijo, Društvo za
   trajnostni razvoj Duh časa
-* 2011 – danes: Koordinator Goriške regije, Društvo za trajnostni razvoj Duh
-  časa
-* Volitve 2011: Kandidiral za poslanca na listi Stranke TRS
-* 2011: Risanje simbolov na gedasymbols.org
-* Administriram Spletišče vasi Slap, včasih sem Študentski dom Topniška
-  (2008-2011) in deloma Planinsko društvo vipava
-* Ponovitev razstave fotografij Živeti! (Ljubljana, jan. 2010)
-* Avtor fotografske razstave Živeti! (Slap, avg. 2009)
-* 2005 – 2011: Petje pri [Primorskem akademskem zboru Vinko Vodopivec](http://www.vinkovodopivec.org/)
-* 2002 – 2011: Vodnik PZS, [PD Vipava](http://www.planinsko-drustvo-vipava.si/)
-* 2003 – 2009: Markacist PZS, PD Vipava
+* 2011: Drawing symbols for gedasymbols.org
+* 2005 – 2011: Singing at [Primorska academis choir Vinko Vodopivec](http://www.vinkovodopivec.org/)
+* 2002 – 2011: Guide AAS, [PD Vipava](http://www.planinsko-drustvo-vipava.si/)
+* 2003 – 2009: Markacist AAS, PD Vipava
 * 2002: Vaditelj orientacije, PD Vipava
 
 # Povezave:
