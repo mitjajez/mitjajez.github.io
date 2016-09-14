@@ -6,16 +6,17 @@ published: true
 ---
 
 ```javascript
-Card() {
+Vizitka() {
   ime: 'Mitja Jež',
   e-pošta: 'mitja@jež.si',
   SIP: 'mitjajez@ostel.co',
   Github: 'mitjajez'
   Diaspora*: mitjajez@diasp.eu,
   flattr: 'mitjajez'
-  description: 'I call my self as a social engineer as i’m interested in \
-  psychology and social concern to see bigger picture of economic problems and \
-  solving this through open source engineering applications and sharing.',
+  description: 'Osebno se imam za socialnega inženirja, ker se zanimam tudi za \
+  psihologijo in družbno skrb, da lahko vidim širšo sliko ekonomskih problemov, \
+  ki jih skušam reševati z inženirskim pristopom skozi odprtokodne aplikacije \
+  in souporabo.',
 }
 ```
 Priljubljeni citat:
@@ -44,8 +45,7 @@ Let’s fix Value System Disorder!
 * 3D grafična orodja: OpenSCAD
 
 # Izobrazba:
-* 2016: nedokončan študij univerzitetnega študijskega programa Elektrotehnika,
-  smer elektronika (še zagovor)
+* 2016: univerzitetni diplomirani inženir elektrotehnike (študij smeri Elektronika)
 * 2004: elektrotehnik elektronik
 * 2002: elektrikar elektronik
 
