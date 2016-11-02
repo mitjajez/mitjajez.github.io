@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /en/about/
+published: true
 ---
 
 ```javascript
@@ -56,6 +57,7 @@ Let’s fix Value System Disorder!
   javascript)
 
 # Employment Experience:
+* 2016 – today: Gold Club d.o.o. – electronics hardware design
 * 2015: BeeZee Designs – web projects
 * 2014/15: DOPPS – BirdLife Slovenia – Asistent vodje projekta in projektni
   administrator (made new webpage ptice.si)
