@@ -59,7 +59,8 @@ Let’s fix Value System Disorder!
   javascript)
 
 # Delovne izkušnje:
-* 2015: BeeZee Designs – web projects
+* 2016 – danes: Gold Club d.o.o. – razvoj elektronske strojne opreme
+* 2015: BeeZee Designs – spletne strani
 * 2014/15: DOPPS – BirdLife Slovenia – Asistent vodje projekta in projektni
   administrator (nova spletna stran ptice.si)
 
