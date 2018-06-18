@@ -1,2 +1,2 @@
 # mitjajez.github.io
-Githib webpage
+Github webpage
