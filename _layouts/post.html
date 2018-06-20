@@ -6,14 +6,6 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
-      <a class="FlattrButton"
-        title="{{page.title}}"
-        data-flattr-tags="{{page.tags}}"
-        data-flattr-category="text"
-        data-flattr-language="{{page.lang}}"
-        href="{{site.url}}{{page.url}}">
-        <img src="https://button.flattr.com/flattr-badge-large.png" alt="flattr.com" </a>
-      </a>
     </p>
   </header>
 
